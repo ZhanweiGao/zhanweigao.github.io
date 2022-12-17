@@ -1,0 +1,57 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Ana Matoso
+description: >- # this means to ignore newlines until "baseurl:"
+  Hello! My name is Ana and I’m a biomedical engineering student currently studying at Instituto Superior Técnico. I am interested in areas where computing meets biology.
+baseurl: "" # the subpath of the site
+url: "https://anamatoso.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-3"
+remote_theme: eliottvincent/bay
+
+header:
+  pages:
+    - name: About
+      slug: /
+    - name: Projects
+      slug: /projects
+    #- name: Blog
+    - name: CV
+      slug: /CV
+
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email
+      value: Email
+      link: mailto:anamatoso92@gmail.com
+
+  follow:
+    - name: LinkedIn
+      link: http://linkedin.com/in/anamatoso
+    - name: GitHub
+      link: http://github.com/anamatoso
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
