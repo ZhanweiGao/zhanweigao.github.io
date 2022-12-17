@@ -19,6 +19,9 @@ header:
     #- name: Blog
     - name: CV
       slug: /CV
+    - name: Publications
+    - name: Presentations
+    - name: Teaching
 
 footer:
   show_powered_by: false
