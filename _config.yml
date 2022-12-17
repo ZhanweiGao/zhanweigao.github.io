@@ -3,7 +3,7 @@
 
 title: Zhanwei Gao
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! My name is Ana and I’m a biomedical engineering student currently studying at Instituto Superior Técnico. I am interested in areas where computing meets biology.
+  Zhanwei Gao's website
 baseurl: "" # the subpath of the site
 url: "https://zhanweigao.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
