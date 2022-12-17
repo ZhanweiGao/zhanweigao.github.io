@@ -4,7 +4,10 @@
 .site-header {
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
-
+  background-color:#efefed;
+  width:100%;
+  position: fixed;
+  z-index: 999;
   padding-top: 10px;
   padding-bottom: 10px;
 
