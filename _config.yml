@@ -22,6 +22,7 @@ header:
     - name: Publications
     - name: Presentations
     - name: Teaching
+    - name: Science
 
 footer:
   show_powered_by: false
