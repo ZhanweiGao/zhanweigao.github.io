@@ -104,10 +104,10 @@
   // padding: $spacing-unit 0;
   // padding: $spacing-unit / 2; // modified 2022.12.19
   
-  margin-right: $spacing-unit * 10;
-  margin-left: $spacing-unit * 10;
-  padding-right: $spacing-unit * 10;
-  padding-left: $spacing-unit * 10;
+  margin-right: $spacing-unit * 18;  // added 2022.12.19
+  margin-left: $spacing-unit * 18;  // added 2022.12.19
+  padding-right: $spacing-unit * 18;  // added 2022.12.19
+  padding-left: $spacing-unit * 18;  // added 2022.12.19
 
   @include media-query($on-mobile) {
     padding-top: 10px;
