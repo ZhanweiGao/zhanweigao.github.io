@@ -101,7 +101,8 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  // padding: $spacing-unit 0;
+  padding: $spacing-unit / 2; // modified 2022.12.19
 
   @include media-query($on-mobile) {
     padding-top: 10px;
