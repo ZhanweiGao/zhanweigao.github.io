@@ -101,7 +101,8 @@ h4,
 h5,
 h6 {
   font-weight: 300;
-  font-family: "Futura", sans-serif;
+  // font-family: "Futura", sans-serif;
+  font-family: $base-font-family; // modified 2022.12.19
 }
 
 h4 {
