@@ -12,13 +12,13 @@ remote_theme: eliottvincent/bay
 
 header:
   pages:
-    - name: About
+    - name: Home
       slug: /
     - name: Projects
       slug: /projects
     #- name: Blog
-    - name: CV
-      slug: /CV
+    #- name: CV
+    #  slug: /CV
     - name: Publications
     - name: Presentations
     - name: Teaching
