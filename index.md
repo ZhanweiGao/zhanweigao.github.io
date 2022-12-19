@@ -31,7 +31,8 @@ I'm a fourth-year Ph.D student in the [College of Artificial Intelligence](http:
 
 <br />
 
-# **Activates**
+// # **Activates**
+<h2>Recent news:</h2>
 
 03/2022: Paper accepted by **TIP** (multi-object tracking).
 
