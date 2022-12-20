@@ -62,6 +62,12 @@
       margin-left: 20px;
     }
   }
+  
+  .page-link:hover {
+    // background-color: #555;
+    color: $grey-color;
+    text-decoration: none;
+    } // added 2022.12.20
 
   @include media-query($on-mobile) {
     position: absolute;
