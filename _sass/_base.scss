@@ -120,16 +120,13 @@ a {
   // &:visited {
   //   color: darken($brand-color, 15%);
   // }
-  // modofied 2022.12.20
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
 
   &:hover {
     // color: $text-color;
-    // text-decoration: underline;
     color: $grey-color; // modofied 2022.12.20
-    text-decoration: none; // modofied 2022.12.20
+    text-decoration: underline;
+    
+
   }
 }
 
