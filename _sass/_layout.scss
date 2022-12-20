@@ -34,6 +34,11 @@
   &:visited {
     color: $grey-color-dark;
   }
+  
+  &:hover{
+    color: $grey-color;
+    text-decoration: none;
+  } // added 2022.12.20
 }
 
 /**
