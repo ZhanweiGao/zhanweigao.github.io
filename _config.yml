@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Zhanwei Gao
+title: Complex Lab
 description: >- # this means to ignore newlines until "baseurl:"
-  Zhanwei Gao's website
+  Complex Lab's official website
 baseurl: "" # the subpath of the site
 url: "https://zhanweigao.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
