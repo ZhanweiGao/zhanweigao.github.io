@@ -23,7 +23,6 @@ header:
     - name: Presentations
     - name: Teaching
     - name: Science
-    - name: News
 
 footer:
   show_powered_by: false
