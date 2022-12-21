@@ -4,6 +4,7 @@ title: News
 slug: /news
 ---
 
+<div class="page">
   <div class="timeline">
     <div class="timeline__group">
       <span class="timeline__year time" aria-hidden="true">2008</span>
@@ -66,4 +67,4 @@ slug: /news
       </div>
     </div>
   </div>
-
+</div>
