@@ -32,7 +32,7 @@ footer:
       link: mailto:anamatoso92@gmail.com
     - name: Address
       value: Beijing
-      #link: mailto:Beijing
+      link: "#"
 
   follow:
     - name: LinkedIn
