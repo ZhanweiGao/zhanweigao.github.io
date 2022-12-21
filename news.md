@@ -2,6 +2,7 @@
 layout: news
 title: News
 slug: /news
+---
 
 <div class="page">
   <div class="timeline">
