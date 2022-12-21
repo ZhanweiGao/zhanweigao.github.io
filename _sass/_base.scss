@@ -124,7 +124,8 @@ a {
   &:hover {
     // color: $text-color;
     color: $grey-color; // modofied 2022.12.20
-    text-decoration: underline;
+    // text-decoration: underline;
+    text-decoration: dotted; // modofied 2022.12.21
     
 
   }
