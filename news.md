@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: work
 title: News
 slug: /news
 ---
